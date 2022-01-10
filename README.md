@@ -35,7 +35,7 @@ npm install
 npm start
 ```
 
-- Visit http://localhost:3001/api/v1/greetings/index
+- Visit http://localhost:3000/hello
 
 ## Author
 
