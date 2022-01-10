@@ -2,6 +2,9 @@
 
 # Hello rails frontend
 
+![image](https://user-images.githubusercontent.com/57421823/148773439-a2bd5c88-ee83-436e-82e2-69b42d685aa9.png)
+
+
 Frontend to demonstrate the functionality and interactivity with a backend to consume. 
 
 ## Built With
@@ -22,7 +25,7 @@ Visit [This repo](https://github.com/Meltrust/hello-rails-backend) and follow in
 
 clone this repo with:
 
-```console
+```ruby
 git clone https://github.com/Meltrust/hello-rails-front-end.git
 ```
 
@@ -30,12 +33,13 @@ git clone https://github.com/Meltrust/hello-rails-front-end.git
 
 - Be sure your [rails server](https://github.com/Meltrust/hello-rails-backend) is running according to that repo's instructions.
 - In your terminal:
-```console
+```ruby
 npm install
 npm start
 ```
 
 - Visit http://localhost:3000/hello
+- Press the "Get greetings" button in order to consume the Rails API and get random greetings.
 
 ## Author
 
