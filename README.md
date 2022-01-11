@@ -53,7 +53,7 @@ npm start
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/eri8-9/hello_rails/issues).
+Feel free to check the [issues page](https://github.com/Meltrust/hello_rails-front-end/issues).
 
 ## Show your support
 
